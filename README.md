@@ -4,7 +4,7 @@ Search and recommend movies similar to Netflix.
 
 In combinations of React, Redux and React Router to create view layer for single page app. Configured Webpack to provides tools for both dev and prod env, PostCSS and Autoprefixer to ensure styles are supported across modern browsers.
 
-### Check out this site live on this [Link](http://netflix-react.surge.sh/)
+<!-- ### Check out this site live on this [Link](http://netflix-react.surge.sh/) -->
 
 ![Demo](https://github.com/sudhanshu-jha/netflix-clone/blob/master/demo2.gif)
 
