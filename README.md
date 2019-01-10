@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/70db0646202d47af8ba679b3253f7fdb)](https://www.codacy.com/app/sudhanshu-jha/netflix-clone?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sudhanshu-jha/netflix-clone&amp;utm_campaign=Badge_Grade)
 
 Search and recommend movies similar to Netflix.
 
